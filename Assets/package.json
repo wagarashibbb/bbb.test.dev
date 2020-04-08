@@ -1,0 +1,22 @@
+{
+  "name": "dev.wagarashibbb.upm.bbb.test.dev",
+  "displayName": "bbb test",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "description": "test",
+  "author": {
+    "name": "wagarashibbb",
+    "url": "https://me.wagarashibbb.dev/",
+    "email": "wagarashibbb@example.com"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wagarashibbb/bbb.test.dev"
+  }
+}
